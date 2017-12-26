@@ -1,6 +1,6 @@
 """
 Author: Sophie Johnson
-Purpose: To do lab 4
+Purpose: To make an ATM
 Date: Oct 4, 2017
 """
 running=True
