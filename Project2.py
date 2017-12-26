@@ -1,7 +1,7 @@
 '''
 Author: Sophie Johnson
 Date: November 8, 2017
-Purpose: To do project 2
+Purpose: To create the game hangman
 '''
 from random import *
 
