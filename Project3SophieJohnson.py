@@ -1,7 +1,7 @@
 '''
 Author: Sophie Johnson
 Date: December 5, 2017
-Purpose: To do project 4
+Purpose: To make three image filters, hopeify, checkboard, and flip. 
 '''
 from readwritePPM import *
 
