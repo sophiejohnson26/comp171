@@ -1,5 +1,5 @@
 '''
-Purpose: to do lab 5
+Purpose: To determine age in ages, hours, minutes, and seconds 
 Date: Oct. 23, 2017
 Author: Sophie Johnson
 '''
