@@ -1,7 +1,7 @@
 '''
 Author: Sophie Johnson
 Date: December 5, 2017
-Purpose: 
+Purpose: To match users with a dog
 '''
 
 def smallOrLargeDog(userInput, dogs):
